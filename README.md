@@ -1,6 +1,8 @@
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
+In this project, we need to identify students who might need early intervention before they fail to graduate. I use three methods: decision tree, svm and knn to complete the task. 
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
